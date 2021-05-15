@@ -4,4 +4,7 @@ Kelimeyi buldugunda satir ve sutun bilgilerini dondurur.
 
 ![test picture](test.PNG)
 
-![test2 picture](aynı dosyadaki tüm txtlerde bulma/aynı dosya içide test.PNG)
+
+Üst versiyon
+Aynı klasor icindeki tüm txtlerde arama yapip satir ve sutun dondurur
+![test2 picture](test2.PNG)
